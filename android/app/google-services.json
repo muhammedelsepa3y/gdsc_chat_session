@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032376379549",
+    "project_id": "gdsc-chat",
+    "storage_bucket": "gdsc-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032376379549:android:0f52f321a89bed89d7cc74",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_chat_session"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMLM3QNuCc91xajc2qknzbuL-ItKCX01A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
